@@ -8,6 +8,9 @@ class RideHailingBackendPlatformApplicationTests {
 
 	@Test
 	void contextLoads() {
+
+
+
 	}
 
 }
